@@ -1,0 +1,11 @@
+# Notebooks 
+access_metpy.ipynb
+Four_Panel_Map.ipynb
+XArray_Projections.ipynb
+
+# netcdf data
+rain_forecast_anom_weekly.nc
+sst_forecast_anom _weekly.nc
+
+#Folders
+.vscode
